@@ -1,0 +1,16 @@
+C:\Users\ADmin\source\repos\Assi_4\MainForm\bin\Debug\MainForm.exe
+C:\Users\ADmin\source\repos\Assi_4\MainForm\bin\Debug\Assi_4.dll
+C:\Users\ADmin\source\repos\Assi_4\MainForm\bin\Debug\MainForm.pdb
+C:\Users\ADmin\source\repos\Assi_4\MainForm\bin\Debug\Assi_4.pdb
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.BookReport.resources
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.ChangeAccount.resources
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.Login.resources
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.MaintainBooks.resources
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.exe
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.pdb
+C:\Users\ADmin\source\repos\Assi_4\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\ADmin\source\repos\Assi_4\MainForm\obj\Debug\MainForm.csproj.CopyComplete

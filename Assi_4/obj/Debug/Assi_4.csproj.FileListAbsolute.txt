@@ -1,0 +1,6 @@
+C:\Users\ADmin\source\repos\Assi_4\Assi_4\bin\Debug\Assi_4.dll
+C:\Users\ADmin\source\repos\Assi_4\Assi_4\bin\Debug\Assi_4.pdb
+C:\Users\ADmin\source\repos\Assi_4\Assi_4\obj\Debug\Assi_4.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\source\repos\Assi_4\Assi_4\obj\Debug\Assi_4.dll
+C:\Users\ADmin\source\repos\Assi_4\Assi_4\obj\Debug\Assi_4.pdb
+C:\Users\ADmin\source\repos\Assi_4\Assi_4\obj\Debug\Assi_4.csproj.AssemblyReference.cache
